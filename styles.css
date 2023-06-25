@@ -28,10 +28,3 @@ header {
   nav ul li:hover {
     background: #eca023;
   }
-
-  nav ul li b{
-    Float: Right;
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    background-color: blue;
-  }
